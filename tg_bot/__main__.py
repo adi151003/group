@@ -33,13 +33,7 @@ I'm here to manage your groups!
 
 Click Help button to find out more about how to use me to my full potential. 
 
-Join Support Chat ( @SabrinaChat ) if you need any support or help 
-
 Join my official channel [LOGAN GIVEAWAYS](t.me/logangiveaways)
-
-
-
-)
 """
 
 
